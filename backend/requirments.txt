@@ -1,4 +1,4 @@
 coverage==4.5.4
-Django==1.9.9
+Django==1.11.29
 django-multiselectfield==0.1.8
 djangorestframework==3.4.1
